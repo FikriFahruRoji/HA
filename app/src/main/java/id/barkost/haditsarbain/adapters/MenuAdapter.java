@@ -8,6 +8,7 @@ import android.widget.TextView;
 
 import java.util.List;
 
+import id.barkost.haditsarbain.R;
 import id.barkost.haditsarbain.models.ModelMenu;
 
 public class MenuAdapter extends RecyclerView.Adapter<MenuAdapter.MyViewHolder> {
